@@ -118,7 +118,7 @@ nav ul li{
 
 
 .container{
-    min-height: 70vh;
+    min-height: 170vh;
     color: whitesmoke;
     font-family: 'Varela Round', sans-serif;
     display: flex;
@@ -136,7 +136,6 @@ nav ul li{
     position: sticky;
     height: 150px;
     width: 100%;
-    min-height:140vh;
     background-color: black;
     color: whitesmoke;
     bottom: 0;
